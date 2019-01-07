@@ -1,0 +1,11 @@
+/*
+  Theme Name: BootstrapTutorial
+  Theme URI: https://www.adhousegroup.at
+  Description: Bootstrap Template for ADhouse Communication Group.
+  Author: Bernhard Froeschl
+  Author URI: https://www.adhousegroup.at
+*/
+
+.menu li {
+    float: left;
+}
